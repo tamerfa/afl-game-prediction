@@ -1,4 +1,4 @@
-# final-project
+# AFL Game Prediction
 ###  <br />
 ###  1. Please go to URL to run the Heroku application:  https://afl-game-prediction-model.herokuapp.com/
 ###  <br >
